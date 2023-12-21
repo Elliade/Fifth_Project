@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level_HLOD0_Instancing.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalActors__/Level/C/PA/FDHP57TGJNB11KZ7HI9O37.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalObjects__/Level/D/OR/ID92NLLMOZFXTPWUN21V1S.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalObjects__/Level/3/D0/YUEEKXDSCXYP4NKDGD60GA.uasset",
@@ -79,6 +78,14 @@
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level.umap",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level_Arc.umap",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level/Level_Arc.umap",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_HitBox.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_Ball.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_HitBox_Second.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_HitBox_First.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/NewMaterial.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/Red.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/Blue.uasset",
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level_HLOD0_Instancing.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalActors__/Level/Level/8/KN/MJZ01CVEB01IUV6Z9FBFTR.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalObjects__/Level/Level/7/62/2Q4K1NCBTO32OFOITARNTR.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalObjects__/Level/Level/1/Y8/F0QS3QP1FP9TS8YC44WDY8.uasset",
@@ -149,9 +156,7 @@
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalActors__/Level/Level/8/XH/ZOW12G7UMONZP7Z3ZLLYZR.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalActors__/Level/Level/2/YO/K904SSDLYENRGCC2JG0CEO.uasset",
 				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/__ExternalActors__/Level/Level/9/RL/P2W6Z1VADYSV8N7PNS0LQ2.uasset",
-				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level/Level.umap",
-				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_HitBox.uasset",
-				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Actors/BP_Ball.uasset"
+				"D:/Users/ellia/Documents/Unreal Projects/Arcanoid/Content/Level/Level.umap"
 			]
 		}
 	]
